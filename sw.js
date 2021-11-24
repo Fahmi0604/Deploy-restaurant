@@ -12,6 +12,7 @@ var serviceWorkerOption = {
     "/images/ilustration/undraw_Location_search_re_ttoj.png",
     "/images/ilustration/undraw_breakfast_psiw.png",
     "/images/ilustration/undraw_navigator_a479.png",
+    "/font/Poppins-Regular.ttf",
     "/images/logo/restaurant.png",
     "/images/icons/restaurant-128x128.png",
     "/images/icons/restaurant-144x144.png",
