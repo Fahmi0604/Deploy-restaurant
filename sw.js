@@ -9,6 +9,10 @@ var serviceWorkerOption = {
     "/images/heros/hero-image_2-large.jpg",
     "/images/heros/hero-image_2-small.jpg",
     "/images/heros/hero-image_2.jpg",
+    "/images/ilustration/undraw_Location_search_re_ttoj.png",
+    "/images/ilustration/undraw_breakfast_psiw.png",
+    "/images/ilustration/undraw_navigator_a479.png",
+    "/images/logo/restaurant.png",
     "/images/icons/restaurant-128x128.png",
     "/images/icons/restaurant-144x144.png",
     "/images/icons/restaurant-152x152.png",
@@ -17,10 +21,6 @@ var serviceWorkerOption = {
     "/images/icons/restaurant-512x512.png",
     "/images/icons/restaurant-72x72.png",
     "/images/icons/restaurant-96x96.png",
-    "/images/logo/restaurant.png",
-    "/images/ilustration/undraw_Location_search_re_ttoj.png",
-    "/images/ilustration/undraw_breakfast_psiw.png",
-    "/images/ilustration/undraw_navigator_a479.png",
     "/index.html"
   ]
 };
